@@ -1,0 +1,2 @@
+# aspen-rs devcontainer
+This repo contains the Dockerfile and shell scripts to create a linux environment to run aspen-rs. This was adapted from the weenix os-devcontainer repository (which is definitely overkill, but it's whatever).

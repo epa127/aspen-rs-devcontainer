@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Running Docker container..."
+./docker-run-container.sh
